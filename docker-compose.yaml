@@ -1,0 +1,6 @@
+version: '3.6'
+services:
+  app:
+    image: ...
+    ports:
+      - "8000:8000"
